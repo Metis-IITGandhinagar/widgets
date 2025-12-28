@@ -1,0 +1,17 @@
+{
+  "type": "widget",
+  "version": 1,
+  "content": {
+    "text": {
+      "value": "Hello world"
+    },
+    "image": {
+      "name": "ic_launcher_foreground"
+    },
+    "button": {
+      "text": "Click me",
+      "action": "CLICK"
+    }
+  }
+}
+
